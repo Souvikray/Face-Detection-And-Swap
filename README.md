@@ -1,12 +1,12 @@
 Face detection is the process of identifying faces in a given image.The basic process of face detection is composed of the following steps
 
-1 Machine Learning Examples
+1 <b> Machine Learning Examples </b>
 
-2 Features
+2 <b> Features </b>
 
-3 Adaboost
+3 <b> Adaboost </b>
 
-4 Cascade Of Classifiers
+4 <b> Cascade Of Classifiers </b>
 
 <b> Machine Learning Examples </b>
 
@@ -34,9 +34,9 @@ Here the idea is that in an image most of the regions are non face region.So we 
 
 There are two important parameters that we need to pass when we check for a face in an image.
 
-1 Scale factor
+1 <b> Scale factor </b>
 
-2 Minimum number of neighbours
+2 <b> Minimum number of neighbours </b>
 
 <b> Scale factor </b>
 
